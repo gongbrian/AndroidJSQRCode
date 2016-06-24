@@ -1,0 +1,2 @@
+# AndroidJSQRCode
+android网页点击按钮调用android相机
